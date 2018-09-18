@@ -1,0 +1,16 @@
+{
+  "country": "united_republic_of_tanzania",
+  "bounding_box": [
+    39.27073237008899,
+    -6.321555379659707,
+    39.28681111850825,
+    -6.3129801070207225
+  ],
+  "zoom": 20,
+  "classes": [
+    { "name": "Building", "filter": ["has", "building"] }
+  ],
+  "imagery": "https://tiles.openaerialmap.org/5ae38a540b093000130afeb9/0/5ae38a540b093000130afeba/{z}/{x}/{y}.png",
+  "background_ratio": 1,
+  "ml_type": "segmentation"
+}
